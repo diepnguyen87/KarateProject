@@ -1,4 +1,4 @@
-Feature: Get API demo
+Feature: Post API demo
 
   Background: 
     * url 'https://reqres.in/api'
